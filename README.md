@@ -1,4 +1,4 @@
-# ¡Holaa!👋 rocket
+# ¡Holaa!👋 U+1F680
 
 ## Esta soy yo ...
 
@@ -9,7 +9,7 @@ Soy arquitecta diseñadora y cuando vi la oportunidad de cumplir mi sueño de co
 Mi IKIGAI: Mi pasión es hacerle sentir a las personas por medio de lo sensorial (visual, olfativo, gusto, auditivo o tacto) experiencias emocionantes.
 Por eso me enfoqué en el Desarrollo Front, porque por medio de UX, las personas estarán felices
 
-## ¿Hacia dónde voy? flying_saucer
+## ¿Hacia dónde voy? 
 
 Tengo la ambicion de participar en proyectos importantes, y estoy en el proceso de aprendizaje constante y también aprendiendo de la gente que me voy encontrando en el camino, y me obligo a dar lo mejor de mi en cada linea de codigo.muscle
 
