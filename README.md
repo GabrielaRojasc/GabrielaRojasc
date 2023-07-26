@@ -17,4 +17,4 @@ Tengo la ambicion de participar en proyectos importantes, y estoy en el proceso 
 
 -[LinkedIn](https://www.linkedin.com/in/gabriela-rojas-chavaco/)
 
--[Portfolio](https://gabrielarojasc.github.io/Portfolio/)
++[Portfolio](https://gabrielarojasc.github.io/Portfolio/)
