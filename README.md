@@ -1,6 +1,7 @@
-# ¡Holaa!👋 
-
-Mi nombre es Gabriela y soy Front End Developer 
+<div aling= "center"> 
+<h1 aling="center">¡Holaa, soy <href="https://gabrielarojasc.github.io/Portfolio/">Gabriela!</a>👋</h1> 
+</div>
+ 
 
 ## Esta soy yo ✨
 
